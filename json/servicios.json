@@ -1,0 +1,20 @@
+{
+    "servicios" : [
+        {
+            "tipo": "Tienda",
+            "descripcion": "Puedes adquirir de nuestros productos visitando nuestro local, donde encontrará una amplia variedad de muebles y artículos hechos en metal. Desde lámparas elegantes hasta decoraciones para el jardín, desde juegos de comedor con estilo hasta maceteros y porta suculentas creativas. Si busca muebles y decoraciones únicos y duraderos, nuestro local es el lugar perfecto para explorar. ¡Visítenos y descubra cómo el metal puede transformar su espacio!",
+            "caracteristicas": "Productos hechos en metal abarca desde objetos decorativos para el hogar hasta piezas funcionales para la oficina"
+        },
+        {
+            "tipo": "Reparaciones",
+            "descripcion": "Nos enorgullece ofrecer un servicio completo de reparaciones para sus artículos de metal. Sabemos que incluso los productos más resistentes pueden necesitar un poco de cuidado con el tiempo. Nuestro equipo puede restaurar y reparar sus muebles y objetos de metal, devolviéndoles su brillo y funcionalidad originales. Confíe en nosotros para cuidar de sus piezas valiosas y extender su vida útil.",
+            "caracteristicas": "Desde soldaduras hasta repintados, cada reparación se realiza con la atención al detalle que merecen sus objetos valiosos."  
+        },
+        {
+            "tipo": "Personalizado",
+            "descripcion": "No solo ofrecemos productos preexistentes, sino que también somos especialistas en convertir sus ideas en realidad. Nuestro servicio de personalización le permite traer sus conceptos y diseños, y nosotros los materializaremos en piezas de metal únicas y exclusivas. Desde la conceptualización hasta la creación, trabajamos en estrecha colaboración con usted para garantizar que el resultado final sea exactamente lo que imaginó. Transformamos sus sueños en metal palpable.",
+            "caracteristicas": "Si usted tiene una imagen o una idea del diseño que desea, nos lo puede hacer llegar y nosotros le cotizamos sin ningún compromiso. Los artículos debe retirarlos en el local" 
+        }
+        
+    ]       
+}
